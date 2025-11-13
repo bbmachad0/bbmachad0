@@ -1,44 +1,12 @@
 # 👋 Hi, I'm Bruno Machado  
 
-🎯 **Data Engineer | Apache Spark | AWS | Glue | Terraform**  
-📍 Portugal  
+🎯 **Data Engineer | AWS | Apache Spark | Glue | Terraform**  
+📍 Based in Portugal  
 
-I'm a tech enthusiast passionate about turning data into **actionable insights**.  
-I design and implement **serverless Data Lakehouse architectures** on **AWS**, applying best practices in **Infrastructure as Code (IaC)**, **data governance**, and **workflow orchestration**.
+I’m a data engineer passionate about using technology to solve real problems.  
+My main focus is building **data platforms and pipelines** that help transform raw data into useful insights for decision-making.  
 
----
-
-## 🚀 About Me
-
-- 💡 Currently working as a **Data Engineer at Critical TechWorks** and **Ascendi**  
-- 🧩 Experienced in **data architecture, ingestion, transformation, and visualization**  
-- ☁️ Focused on **serverless data solutions on AWS** and **pipeline optimization using PySpark and Airflow**  
-- 🧠 Passionate about exploring new technologies and data engineering practices  
-- 🌍 Fluent in Portuguese, English, and Spanish  
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud & Infrastructure:**  
-AWS (Glue, Lambda, LakeFormation, Iceberg), Terraform, CloudFormation  
-
-**Data Engineering:**  
-Apache Spark, PySpark, Airflow (MWAA), Step Functions, SQL  
-
-**Data Visualization:**  
-Power BI, Dremio, Looker Studio  
-
-**DevOps & Automation:**  
-GitHub Actions, CI/CD, IaC  
-
----
-
-## 📊 Featured Projects
-
-- 🏗️ **Serverless Data Lakehouse on AWS** — Designed and built an end-to-end data architecture from scratch, including orchestration with Airflow.  
-- 🔐 **Data Governance with LakeFormation** — Implemented tag-based access control (TBAC).  
-- ⚙️ **CI/CD Automation** — Deployed infrastructure and data pipelines using GitHub Actions and CloudFormation.  
+I enjoy designing **scalable, serverless architectures** in AWS and automating processes using **Infrastructure as Code (IaC)** and modern orchestration tools.
 
 ---
 
@@ -56,4 +24,4 @@ GitHub Actions, CI/CD, IaC
 
 ---
 
-💬 *"Turning data into actionable insights — one pipeline at a time."*
+💬 *“Turning data into meaningful insights, one pipeline at a time.”*

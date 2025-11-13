@@ -6,14 +6,14 @@
 I’m a data engineer passionate about using technology to solve real problems.  
 My main focus is building **data platforms and pipelines** that help transform raw data into useful insights for decision-making.  
 
-I enjoy designing **scalable, serverless architectures** in AWS and automating processes using **Infrastructure as Code (IaC)** and modern orchestration tools.
+
 
 ---
 
 ## 📈 GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobmachado&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobmachado&layout=compact&theme=tokyonight)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbmachad0&show_icons=true&theme=aura)  
+![Top Langs](https://github-readme-stats.vercel.app/api/gist/?username=bbmachad0&layout=compact&theme=aura)
 
 ---
 
